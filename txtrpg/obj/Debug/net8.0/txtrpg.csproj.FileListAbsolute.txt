@@ -12,3 +12,4 @@ C:\Users\eunzs\source\repos\txtrpg\txtrpg\obj\Debug\net8.0\refint\txtrpg.dll
 C:\Users\eunzs\source\repos\txtrpg\txtrpg\obj\Debug\net8.0\txtrpg.pdb
 C:\Users\eunzs\source\repos\txtrpg\txtrpg\obj\Debug\net8.0\txtrpg.genruntimeconfig.cache
 C:\Users\eunzs\source\repos\txtrpg\txtrpg\obj\Debug\net8.0\ref\txtrpg.dll
+C:\Users\eunzs\source\repos\txtrpg\txtrpg\obj\Debug\net8.0\txtrpg.sourcelink.json

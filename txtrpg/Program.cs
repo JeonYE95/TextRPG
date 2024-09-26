@@ -19,7 +19,10 @@ namespace txtrpg
             new Item("스파르타의 갑옷", "방어력 +15", 0, 15, 3500),
             new Item("낡은 검", "공격력 +2", 2, 0, 600),
             new Item("청동 도끼", "공격력 +5", 5, 0, 1500),
-            new Item("스파르타의 창", "공격력 +7", 7, 0, 2500)
+            new Item("스파르타의 창", "공격력 +7", 7, 0, 2500),
+            new Item("나무 방패", "방어력 +5", 0, 5 , 900),
+            new Item("타워형 철 방패", "방어력 +10", 0, 10, 2100),
+            new Item("스파르타의 방패", "방어력 +15", 0, 15, 3000)
         };
         // 플레이어가 소지한 아이템
         static List<Item> playeritems = new List<Item> { };
@@ -45,10 +48,11 @@ namespace txtrpg
 
             Console.WriteLine("1. 상태 보기"); 
             Console.WriteLine("2. 인벤토리");
-            Console.WriteLine("3. 상점 \n"); 
+            Console.WriteLine("3. 상점"); 
+            Console.WriteLine("4. 휴식\n"); 
 
             Console.WriteLine("원하시는 행동을 입력해주세요.");
-            Console.Write(">>");
+            Console.Write(">> ");
 
             // 화면 선택
             while (true)
@@ -69,6 +73,11 @@ namespace txtrpg
                     else if (select == 3) // 상점
                     {
                         Shop();
+                        break;
+                    }
+                    else if (select == 4) // 휴식
+                    {
+                        Rest();
                         break;
                     }
                     else
@@ -233,7 +242,7 @@ namespace txtrpg
                 else
                 {
                 Console.WriteLine("잘못된 입력입니다. 다시 입력해주세요");
-                return;
+                continue;
                 }
                 Console.WriteLine("\n장착하거나 해제하실 번호를 입력해주세요.");
                 Console.WriteLine("0. 나가기");
@@ -365,6 +374,61 @@ namespace txtrpg
                         Console.WriteLine("잘못된 입력입니다.");
                         continue;
                     }
+                }
+            }
+        }
+
+        public static void Rest()
+        {
+            Console.Clear();
+            Console.WriteLine("[여관에서 휴식]\n");
+            Console.WriteLine("500G을 내면 체력을 회복할 수 있습니다.  (보유 골드 : " + player.gold + " G)\n");
+
+            Console.WriteLine("1. 휴식하기");
+            Console.WriteLine("0. 나가기\n");
+            Console.WriteLine("원하시는 행동을 입력해주세요.");
+            Console.Write(">>");
+
+            while (true)
+            {
+                int select = 0;
+                if (int.TryParse(Console.ReadLine(), out select))
+                {
+                    if (select == 1)
+                    {
+                        if (player.gold > 500)
+                        {
+                            if (player.hp == 100)
+                            {
+                                Console.WriteLine($"이미 {player.name}의 상태는 완벽합니다");
+                            }
+                            else
+                            {
+                                player.hp = 100;
+                                Console.WriteLine("여관에서 휴식을 완료했습니다.     ( 소지 골드 -500G ) ");
+                                player.gold -= 500;
+                            }
+                        }
+                        else
+                        {
+                            Console.WriteLine("소유한 골드가 부족합니다.");
+                        }
+                        Console.WriteLine("원하시는 행동을 입력해주세요.");
+                        Console.Write(">>");
+                    }
+                    else if (select == 0)
+                    {
+                        Menu(); // 메인 화면으로 이동
+                    }
+                    else
+                    {
+                        Console.WriteLine("잘못된 입력입니다.");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("잘못된 입력입니다.");
+                    continue;
                 }
             }
         }

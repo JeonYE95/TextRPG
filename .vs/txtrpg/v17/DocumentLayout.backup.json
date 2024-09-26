@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E9FDC5F7-61E7-4F9D-A06B-C2F112390A96}|txtrpg\\txtrpg.csproj|c:\\users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9FDC5F7-61E7-4F9D-A06B-C2F112390A96}|txtrpg\\txtrpg.csproj|solutionrelative:txtrpg\\dungeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E9FDC5F7-61E7-4F9D-A06B-C2F112390A96}|txtrpg\\txtrpg.csproj|c:\\users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9FDC5F7-61E7-4F9D-A06B-C2F112390A96}|txtrpg\\txtrpg.csproj|solutionrelative:txtrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,21 +30,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\Item.cs",
               "RelativeDocumentMoniker": "txtrpg\\Item.cs",
               "ToolTip": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\Item.cs",
               "RelativeToolTip": "txtrpg\\Item.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T10:39:38.868Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -56,7 +59,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Dungeon.cs",
+              "DocumentMoniker": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\Dungeon.cs",
+              "RelativeDocumentMoniker": "txtrpg\\Dungeon.cs",
+              "ToolTip": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\Dungeon.cs",
+              "RelativeToolTip": "txtrpg\\Dungeon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T11:55:56.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "txtrpg.csproj",
               "DocumentMoniker": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\txtrpg.csproj",
               "RelativeDocumentMoniker": "txtrpg\\txtrpg.csproj",
@@ -68,29 +84,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\Player.cs",
               "RelativeDocumentMoniker": "txtrpg\\Player.cs",
               "ToolTip": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\Player.cs",
               "RelativeToolTip": "txtrpg\\Player.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBIAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T08:42:47.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T08:42:47.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\Program.cs",
               "RelativeDocumentMoniker": "txtrpg\\Program.cs",
               "ToolTip": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\Program.cs",
               "RelativeToolTip": "txtrpg\\Program.cs",
-              "ViewState": "AgIAAMkAAAAAAAAAAAAAANwAAABhAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAywAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T01:57:12.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T01:57:12.181Z"
             }
           ]
         }
