@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\",
+  "WorkspaceRootPath": "C:\\Users\\eunzs\\Documents\\GitHub\\TextRpg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9FDC5F7-61E7-4F9D-A06B-C2F112390A96}|txtrpg\\txtrpg.csproj|c:\\users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9FDC5F7-61E7-4F9D-A06B-C2F112390A96}|txtrpg\\txtrpg.csproj|c:\\users\\eunzs\\documents\\github\\textrpg\\txtrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9FDC5F7-61E7-4F9D-A06B-C2F112390A96}|txtrpg\\txtrpg.csproj|solutionrelative:txtrpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9FDC5F7-61E7-4F9D-A06B-C2F112390A96}|txtrpg\\txtrpg.csproj|c:\\users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9FDC5F7-61E7-4F9D-A06B-C2F112390A96}|txtrpg\\txtrpg.csproj|c:\\users\\eunzs\\documents\\github\\textrpg\\txtrpg\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9FDC5F7-61E7-4F9D-A06B-C2F112390A96}|txtrpg\\txtrpg.csproj|solutionrelative:txtrpg\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9FDC5F7-61E7-4F9D-A06B-C2F112390A96}|txtrpg\\txtrpg.csproj|c:\\users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9FDC5F7-61E7-4F9D-A06B-C2F112390A96}|txtrpg\\txtrpg.csproj|c:\\users\\eunzs\\documents\\github\\textrpg\\txtrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9FDC5F7-61E7-4F9D-A06B-C2F112390A96}|txtrpg\\txtrpg.csproj|solutionrelative:txtrpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9FDC5F7-61E7-4F9D-A06B-C2F112390A96}|txtrpg\\txtrpg.csproj|c:\\users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\txtrpg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{E9FDC5F7-61E7-4F9D-A06B-C2F112390A96}|txtrpg\\txtrpg.csproj|c:\\users\\eunzs\\documents\\github\\textrpg\\txtrpg\\txtrpg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E9FDC5F7-61E7-4F9D-A06B-C2F112390A96}|txtrpg\\txtrpg.csproj|solutionrelative:txtrpg\\txtrpg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -32,15 +32,14 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\Item.cs",
+              "DocumentMoniker": "C:\\Users\\eunzs\\Documents\\GitHub\\TextRpg\\txtrpg\\Item.cs",
               "RelativeDocumentMoniker": "txtrpg\\Item.cs",
-              "ToolTip": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\Item.cs",
+              "ToolTip": "C:\\Users\\eunzs\\Documents\\GitHub\\TextRpg\\txtrpg\\Item.cs",
               "RelativeToolTip": "txtrpg\\Item.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T10:39:38.868Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -58,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "txtrpg.csproj",
-              "DocumentMoniker": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\txtrpg.csproj",
+              "DocumentMoniker": "C:\\Users\\eunzs\\Documents\\GitHub\\TextRpg\\txtrpg\\txtrpg.csproj",
               "RelativeDocumentMoniker": "txtrpg\\txtrpg.csproj",
-              "ToolTip": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\txtrpg.csproj",
+              "ToolTip": "C:\\Users\\eunzs\\Documents\\GitHub\\TextRpg\\txtrpg\\txtrpg.csproj",
               "RelativeToolTip": "txtrpg\\txtrpg.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -70,22 +69,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\eunzs\\Documents\\GitHub\\TextRpg\\txtrpg\\Player.cs",
               "RelativeDocumentMoniker": "txtrpg\\Player.cs",
-              "ToolTip": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\Player.cs",
+              "ToolTip": "C:\\Users\\eunzs\\Documents\\GitHub\\TextRpg\\txtrpg\\Player.cs",
               "RelativeToolTip": "txtrpg\\Player.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAxwBIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T08:42:47.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T08:42:47.377Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\eunzs\\Documents\\GitHub\\TextRpg\\txtrpg\\Program.cs",
               "RelativeDocumentMoniker": "txtrpg\\Program.cs",
-              "ToolTip": "C:\\Users\\eunzs\\source\\repos\\txtrpg\\txtrpg\\Program.cs",
+              "ToolTip": "C:\\Users\\eunzs\\Documents\\GitHub\\TextRpg\\txtrpg\\Program.cs",
               "RelativeToolTip": "txtrpg\\Program.cs",
               "ViewState": "AgIAAMkAAAAAAAAAAAAAANoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
