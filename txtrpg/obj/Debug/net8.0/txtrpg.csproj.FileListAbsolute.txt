@@ -1,0 +1,14 @@
+C:\Users\eunzs\source\repos\txtrpg\txtrpg\bin\Debug\net8.0\txtrpg.exe
+C:\Users\eunzs\source\repos\txtrpg\txtrpg\bin\Debug\net8.0\txtrpg.deps.json
+C:\Users\eunzs\source\repos\txtrpg\txtrpg\bin\Debug\net8.0\txtrpg.runtimeconfig.json
+C:\Users\eunzs\source\repos\txtrpg\txtrpg\bin\Debug\net8.0\txtrpg.dll
+C:\Users\eunzs\source\repos\txtrpg\txtrpg\bin\Debug\net8.0\txtrpg.pdb
+C:\Users\eunzs\source\repos\txtrpg\txtrpg\obj\Debug\net8.0\txtrpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eunzs\source\repos\txtrpg\txtrpg\obj\Debug\net8.0\txtrpg.AssemblyInfoInputs.cache
+C:\Users\eunzs\source\repos\txtrpg\txtrpg\obj\Debug\net8.0\txtrpg.AssemblyInfo.cs
+C:\Users\eunzs\source\repos\txtrpg\txtrpg\obj\Debug\net8.0\txtrpg.csproj.CoreCompileInputs.cache
+C:\Users\eunzs\source\repos\txtrpg\txtrpg\obj\Debug\net8.0\txtrpg.dll
+C:\Users\eunzs\source\repos\txtrpg\txtrpg\obj\Debug\net8.0\refint\txtrpg.dll
+C:\Users\eunzs\source\repos\txtrpg\txtrpg\obj\Debug\net8.0\txtrpg.pdb
+C:\Users\eunzs\source\repos\txtrpg\txtrpg\obj\Debug\net8.0\txtrpg.genruntimeconfig.cache
+C:\Users\eunzs\source\repos\txtrpg\txtrpg\obj\Debug\net8.0\ref\txtrpg.dll
